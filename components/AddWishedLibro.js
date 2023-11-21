@@ -50,5 +50,6 @@ const styles = StyleSheet.create({
   titulo:{
       fontSize:30,
       fontWeight: "600",
+      //EIRF
   }
 })
